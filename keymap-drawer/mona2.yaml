@@ -35,14 +35,14 @@ layers:
   - .
   - /
   - LCTRL
-  - LEFT WIN
+  - LEFT ALT
   - LEFT WIN
   - BACKSPACE
   - {t: ENTER, h: '2'}
   - {t: '&to_layer_0 LANG2', h: '3'}
   - {t: '&to_layer_0 LANG1', h: '3'}
   - {t: SPACE, h: '1'}
-  - LEFT ALT
+  - RIGHT SHIFT
   '1':
   - '1'
   - '2'
